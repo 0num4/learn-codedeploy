@@ -2,3 +2,4 @@
 github+codedeployのテスト
 
 hogehoge
+fugafuga
